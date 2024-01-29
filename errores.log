@@ -1734,3 +1734,15 @@ C:[27/01/2024 02:23:16.82][172.16.4.20][490] SELECT  c_asigna FROM materias_insc
  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
 *:[28/01/2024 20:43:38.30][172.16.4.20][N_E]  SELECT ci_e, exp_e, nombres, apellidos, carrera, mencion_esp, pensum, dace002.c_uni_ca, ord_tur, ord_fec, ind_acad, lapso_actual, inscribe, inscrito, sexo, f_nac_e,nombres2,apellidos2 FROM DACE002, ORDEN_INSCRIPCION, TBLACA010, RANGO_INSCRIPCION WHERE ci_e='30366647' AND exp_e=ord_exp AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:07:33.13][172.16.4.20][N_E]  SELECT ci_e, exp_e, nombres, apellidos, carrera, mencion_esp, pensum, dace002.c_uni_ca, ord_tur, ord_fec, ind_acad, lapso_actual, inscribe, inscrito, sexo, f_nac_e,nombres2,apellidos2 FROM DACE002, ORDEN_INSCRIPCION, TBLACA010, RANGO_INSCRIPCION WHERE ci_e='30366647' AND exp_e=ord_exp AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[28/01/2024 23:08:57.53][172.16.4.20][N_E]  SELECT ci_e, exp_e, nombres, apellidos, carrera, mencion_esp, pensum, dace002.c_uni_ca, ord_tur, ord_fec, ind_acad, lapso_actual, inscribe, inscrito, sexo, f_nac_e,nombres2,apellidos2 FROM DACE002, ORDEN_INSCRIPCION, TBLACA010, RANGO_INSCRIPCION WHERE ci_e='30366647' AND exp_e=ord_exp AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 00:29:58.58][172.16.4.20][N_E]  SELECT ci_e, exp_e, nombres, apellidos, carrera, mencion_esp, pensum, dace002.c_uni_ca, ord_tur, ord_fec, ind_acad, lapso_actual, inscribe, inscrito, sexo, f_nac_e,nombres2,apellidos2 FROM DACE002, ORDEN_INSCRIPCION, TBLACA010, RANGO_INSCRIPCION WHERE ci_e='27733939' AND exp_e=ord_exp AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2024 00:31:27.44][172.16.4.20][N_E]  SELECT ci_e, exp_e, nombres, apellidos, carrera, mencion_esp, pensum, dace002.c_uni_ca, ord_tur, ord_fec, ind_acad, lapso_actual, inscribe, inscrito, sexo, f_nac_e,nombres2,apellidos2 FROM DACE002, ORDEN_INSCRIPCION, TBLACA010, RANGO_INSCRIPCION WHERE ci_e='27733939' AND exp_e=ord_exp AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
