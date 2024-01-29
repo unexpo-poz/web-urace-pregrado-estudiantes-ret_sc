@@ -10,7 +10,7 @@ $tLapso				= ' Lapso '.$lapsoProceso;
 
 $laBitacora	 = $_SERVER[DOCUMENT_ROOT].'/log/pregrado/estudiantes/retiros/retiros_sin_cola-'.$lapsoProceso.'.log';
 
-$inscHabilitada		= true;
+$inscHabilitada		= false;
 $modoInscripcion	= '2'; // 1: Inscripcion, 2: Inclusion y Retiro
 
 if ($modoInscripcion == '1'){
